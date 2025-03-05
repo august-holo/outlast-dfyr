@@ -1,0 +1,427 @@
+Oh, great. Yes. So, we have um something on the rule books. Um I thought that was interesting for us to we could look into that. So, it puts all the 
+elements on I mean from what we said, you know, and it kind of divided into the singular the single player version and I think the multiplayer one. So, that I think would be interesting for us to kind of have a better understanding of what we're trying to to do. Unless I'm mistaken. I might be mistaken. 
+Okay. Yeah. Single player mode. And yeah. Well, 
+so okay. Starvation. Okay. One second. I got to check here. The the heralding of news. Let's see if it's good or bad news. 
+Okay, it's good news. 
+Oh, great. 
+Oh, man. Oh, no. He's right. Shoot, man. This kind of stuff never ends. 
+I swear it just keeps coming back, man. Just keeps coming. 
+I One thing I really hate doing is like pixel pushing is what I call it. 
+What's that? where it's like 
+little little details and 
+Yeah. like details like, "Oh, the padding's off here." Oh, can you like guess I can do that? Oh my god. 
+Is the s*** stuff? 
+Yeah, pretty much. I feel like most people who have like a job like basically front-end developers, 
+which is I'm not necessarily only front end guy, but that's been what I've done most of my career. 
+And there are often people who love getting into the like, oh, the kerning's off or like this or whatever. And I'm not one of them. That culture. 
+Yeah. 
+The kerning. That's so That's so interesting. What is a kerning? 
+It's like the space between two letters. 
+Oh my gosh. 
+Yes. Like very detailed stuff like that. I mean, good for them. 
+That's too sad. 
+All right. So, so here we have something the core mechanics. 
+Yeah. 
+So, here the core mechanics of the survival. 
+So, I think maybe the second one will be better because I kind of did it as core mechanics, loops, and key questions for game design. The just after the complete rule book, the first one just Yeah, the second one after it. 
+Oh, this one. 
+Yes, exactly. 
+Okay, so move actions. Okay. Okay, cool. Uh, creatures pray. Okay, cool. Oh, yeah. Nice. solid building. Okay, that's cool. 
+So here with the predator encounter, it gives us an extra sort of action that could be done by the participants. 
+Oh yeah. Which is that uh is that here? 
+Is that number three predator? encounters. Encounter trigger. Move to a tower with the predator initiates an encounter. 
+Uh yeah, 
+dice roll. The outcome is determined by dice roll with possibilities of winning, losing, or option to expend resources to improve the chances. 
+And so that's where the dice thing comes in. 
+Yeah. 
+Settlement building. So when you reach a predetermined mele population, you have to build a new settlement, but then you can place it where you want. That's the idea, right? 
+Yeah, that's that tracks. That's what we 
+agreed. Um, more or less. Then the people spawning automatically spawns on. Yeah. Uncontrol. Yeah. Okay. Players can't directly control the spawning rate. Okay. Yeah. Cool. That's that seems correct. 
+Um, all right. So, the key loops. Oh, wow. They went through population risk. 
+Okay. Yeah, I feel like that's that's pretty fair. 
+Population deplete resources leads to starvation risk. Yep. Um, get further strain resources. Abundant prey attracts predators. That one is Oh, yeah. No, that's right. Uh, pers limit Yeah. Okay. Expansion. Yeah, this one's this one is the building new settlements expands player presence and resources and resource access. Expansion increases the chance of encountering predators. Players must balance expansion with the risk of mele lost to predators. But this also needs to account for the starvation. which I think is more important. 
+That's true. Yeah. Although it also gives us from what I'm reading here with this, it's it's like we're saying you can have the option of increasing the number of settlements you have. But the other one is you get to um five meles on the board means you need to increase. So there are two there's a bit of a confusion here. The initial uh thing higher up was uncontrolled growth. So once you arrive at five maple populations, you need to build a new settlement. That's that was the settlement building trigger. However, here we're saying that you don't need to build. You can choose to build a new settlement or not. 
+So it's to it's to see whether it's better or beneficial to choose to build. 
+Um because It just means that even with your one settlement, you you can only spawn at a rate of one per one mele per round, right? But if you have two, then you spawn at a rate of two meles per round. And so people can use that as a decision to say, okay, we are not going we're going to limit our growth, kind of constrain our growth by only having one settlement and managing that better. However, there's the added benefit of creating another settlement further away because there are some untapped resources you can get to there. And so I think giving them the opportunity to make that choice 
+provides a more strategic game for them. 
+Yeah. Yeah, that tracks. 
+I think I'm not I we've not tested it yet, so I have no idea. 
+Yeah. No, I but I understand and I think um that makes sense for like a lever like a a good way to be strategic. 
+Yeah. So, at least they have actions that they can actually play and and it helps them to say, "Okay, look, I prefer to not do it now cuz I know that I'm not in a good position or I don't have enough resources around me." And 
+yeah, 
+maybe. 
+Yeah, I think so. Uh, so, okay, running through this section, key question. for discussion. 
+So yeah, defining the win lose state. Uh so single player without starvation or there should be additional win conditions right now. That that sounds right. Multiplayer. 
+Yeah, I guess we don't really have this very clearly 
+detailed. Yeah. 
+Yeah. But this one we were trying to kind of avoid if possible. 
+Which one? 
+I think 
+the tragedy of the commons. 
+It's okay. It's okay. 
+But yeah, if we can, that seems like it'd be nice. 
+So, global versus local. Yeah, that's interesting that it kind of attached to that because that was a pretty passing comment if I recall, 
+but it's interesting. Um, basically, you could the way that that sort of is framed here is like you could lose a settlement maybe, but it wouldn't affect if you went into like a starvation mode 
+would be potentially less catastrophic, but also harder to track. Like if you're like counting tiles and like the periphery, it sounds kind of like a lot of work. 
+Yeah. 
+If it was Yeah. If it was like machine keeping um keeping account of the state, it wouldn't be so bad. It'd be Cool. But as a board game, I think 
+no one really want 
+I guess let's forget the like the board game. Maybe not. Maybe we just focus 100% on online and multiplayer. So it's because I was looking at we we can try our hands on the insight maker. So I took some time to try and do something with it with my former game and I discovered that I am s*** in any anything that has to do with math and computer related uh x plus this one plus this would lead I'm like whoa I have no knowledge in this area so I said I must do it with you cuz I think it would be much easier for you to do this thing than me and it would be nice to see how it works pretty bad to be honest 
+no when you talked about the when you put the on the the survival the mirror map and you changed to the to the stock and you were like X plus this in this direction goes here. I was like ah you know it. 
+Well that's yeah that's a great one of the great things about programming is you can you don't have to do math you just have to tell the machine to do it for you. 
+Yeah. Um 
+but that's what is needed you know the all these if else statements for the insight maker and So there all those things that I think it will be much easier for you to grasp. I was learning from scratch and it was quite quite stressful for me. 
+Well, let's check it out. It sounds fun. Um but then we can run through the rest of these real quick. Um the predator behavior. Uh should predator movement be random or okay. Density uh static fluctuate based on factors like prey abundance. Yes, I believe so. 
+And then player interaction. 
+Oh, that's interesting. Hunting or or luring. But I I feel like that would be complex. 
+Yeah. 
+So, settlement dynamics, building cost. 
+Do we just give them do we automatically allow to build or you need a certain amount of resources collected to do that? 
+Yeah, I would think. I mean I would also encourage people to collect or 
+well I mean the collecting is not your um is not your is not in your power because your mele would automatically do a set of things unless we say you can choose what to do. 
+Yeah. I mean let's see. Well I guess you could I mean I think it's still like going out in search of resources, whether you have control over collecting them or not is still I mean the movement is the thing that you would need to do it either way. 
+That's true. Yeah. 
+But uh yeah, it seems like Yeah. I don't know. I mean, I guess that's something that might shake out in the first couple rounds of testing. 
+Yeah, 
+because it might be really annoying to not be able to well yeah I don't know I'm not sure I'm on the fence 
+yeah to choose whether or not um because is the idea that the amount of resources that you collect is what will stabilize your population that is in front of you. So that means you can choose not to move some meeples that have spawned on on the board. Yeah, that makes sense. And then they could just keep collecting the same resource if there's enough of them. 
+Exactly. And if if it dies out, then you can move only a couple of them to collect more to, you know, to help the the crowd or the group that is there. 
+Yeah. Oh, that's interesting, too, because like that's kind of like a stock situation where 
+tile is a stock in the loop. That could be really interesting. I mean, that that would lead to some really I mean, you could get endlessly sophisticated with like how you're timing things like 
+Exactly. 
+Yeah. Okay. I like that. Oh, shoot. I need to record this. 
+I'm recording on my phone, Nora. 
+Oh, okay. Great. So, Okay. So, the last thing is the the learning objectives and player guidance. target audience. Yeah, I guess I think in my mind I didn't really have this fully fleshed out 
+like um I mean I know it's people who care about you know this kind of thing but um beyond that I'm not really sure. I guess students but possibly people who are like system owners. Yeah. More or less 
+whoever's like in control of a of a team. or something like that. 
+Okay. And then we had cards kind of poised as the accompanying tools, right? 
+And then uh in-game data, research objectives, how will the collective data be analyzed? I guess that's that's just a question. 
+And then ethical considerations. Yeah, I guess that would just go into how the how the data is analyzed. 
+Okay. Yeah. I thought I think it did a pretty solid job. There's a few things that 
+that don't seem totally correct, but 
+uh very close. 
+So, we'll keep on adding more and more and and use that to have a better understanding of where we're going from there. So, anyway, 
+yeah, 
+that's the loadbook. 
+Yeah, that's cool. That's such an awesome tool. 
+Uh, cool. I guess do you want to show um me the uh the sense maker or insight maker? 
+Insight maker. Oh, we can I'll show you what I what I did. I did some random crap, but why not? Let me let me go into inside. and my insights. So, I was thinking that we might do the insight maker on this our own game because that would actually already permit us to or help us to see some of our dynamics in in real time. Well, maybe not real time, but over time if we can do some quick modeling. So, can you see my screen? 
+Uh, no, I can't. 
+Crap. How about now? 
+Yeah, I can see it. 
+Okay, great. So, I I was really f****** around with my other game, the tipping point game, and I was trying so I put the instructions of the game into the Chad GPT insight maker thing, and it gave me kind of a step-by-step guide to to follow, but surprise surprise, it was all all b******* at the end of the day. Um, so the way the inside maker works, you have the some primitives. You can add a stock and you can add a variable. Um, and then you can now look for flows that go between things. So the game that I was using, um, you had to use some resources. You can put a value on it. So the resources become a stock. Um, and then And on each resource you can drag an arrow which becomes a flow to something and then the flow you can determine what the flow is. So for example there was a flow to a house because you need a resource to build a house and so this thing apparently I didn't understand it but it was supposed to check if there's the resource then one then you can build a house as one but if it is zero then you can't build something like that. But I'm not sure if that's what it is cuz I have zero idea on how this works. So I'm thinking we should just start at fresh like scrap all this because what happened at the end was I tried the simulation right and this is what happened but I don't know what it is because I can't understand what happened 
+and it kind of calculates it over time. Um And you can see with the different variables that are present what changes. And so you can um focus on just one or two cuz what I expected would happen that was in six years which is six turns of the game the unoccupied land will um diminish since they're going to be building the houses and all that. So that was my thought process but it never worked that way. 
+You know I think it started in the beginning as 36 and then it goes down a bit to 34 but then and 33 but it's yeah it just stays there. So I didn't get anything right. I think I I really messed up on the whole thing. And you can add other primitives that you would like to explore in the graph and then you can see how that works the agent maps tables or SC the plots and all that random jazz which I don't know anything about. So I think it's best to start from scratch. 
+Yeah. 
+So like make a new insight. Um and then we put for example a stock would be what exactly for you in the game? 
+Well would we think of it as a I mean the first stock might be a a uh settlement because everyone starts with one and it uh influences spawn rate. 
+Okay. So settlement is something coming into the settlement and is something going out of it. 
+Uh I think that the what do they call them? What's the term for that? It's like a spout or something like that. A well no 
+anyway uh 
+a spring. I I forget the term for it, but like 
+it generates um like it it's the source of something and you don't worry about where it 
+where it's coming from. Okay. Yes. 
+Yeah. There's a term for it in like the game industry. 
+Oh, I think that's like uh well, I'm not going to worry about it, but so that the flow would go into population. Okay. So, this is going into population. So, I put um I can just create another stock then. 
+Yeah. 
+And I name that one population. So, a population size or just population is fine. 
+Um yeah, maybe just population for now. 
+Okay. 
+And so that then has a flow. And 
+how I'm Yeah, let's see. How do these So, the flow rate is one and I assume that's one per like tick, one per, you know, revolution. We can test it. 
+One and then hit simulate. Will it just grow linearly by one? 
+Uh, yes, it No, wait. What? 
+Settlement goes up. But why is population going down? What the hell? I I don't know. Maybe it's this flow that we messed up with. 
+I think actually that was correct. Oh yeah, 
+I just got thrown off because the axes were a little funky where in five years we expect there to be five populations, right? 
+And uh in 10 years we'd expect 10, which seems like what's happen is going up. Yeah. But why is settlement being minus 10? 
+Because it it's not uh it doesn't think of it as um population. Uh, it's like taking out of the stock. 
+We're trying to just have it not 
+Okay. 
+So, I wonder if we can Let's see. 
+I see it as a variable. 
+I'm curious. What is conveyor? 
+Conveyor. 
+Oh, sorry. Not converter. Sorry. Conveyor. Where's that? 
+That was when you click on settlement. It's uh 
+it says conveyor and I'm not okay. Keep new inflow in the stock for delay until there are um 
+oh we don't allow negatives. 
+Okay. I wonder if that would work. 
+Let's see. Oops. What? 
+Oh s***. 
+Okay. 
+So yeah, you might have to create a flow, a new flow. And I think when you create a flow by itself. It has that little cloud icon at the end. 
+And that might be what we're looking for. Um, 
+okay. So, something that's going into the settlement or 
+Yeah. And if you put uh one in there 
+then and hit simulate, we should just see population go up. And 
+wow, look at that. I told you you were like the key. to this s***. 
+OMG, you're blowing my mind right now, man. 
+Uh yeah, this is cool. So I So with the settlement Yeah, we would want um I mean settlements at this point, they don't have 
+It's kind of weird though because there would be well we can worry about that later but um I think that this is a good start thing concerning me is that like 
+when the I don't know how we would control this necessarily but like when the population gets to 10 
+there would be feedback and add a new a new settlement 
+right 
+which would then increase the slow by another by one 
+and that seems like I'm not sure how to model that in the 
+would that would can you explain that again when the population hits a a particular threshold right or 
+right that was um like uh here where is the where's the pen thing oh whatever uh 
+we had that rule where like populations well I guess no we were we were thinking you could add a settlement voluntarily. It's not involuntary. 
+Okay. In that case, never mind. I I was thinking of it the other way by mistake. 
+No, no, no problem. So that means settlements are dependent on resources then. If you is is is the point that you have a certain amount of resources that will allow you to build a settlement or 
+Yeah. So 
+what potential 
+resources per turn does it take to keep a settlement alive? 
+But then that also is how many let's see so the way we had it when we were just in Muro 
+Yeah. 
+the way we were talking about it was like you have your settlement that you know spawns a new mele every turn. 
+Mh. And the meeples consume resources. Yeah. 
+But we never considered the settlement really. 
+So, but we have this idea of like if you have if you bring in excuse me enough prey to feed the meeples, the settlement just like doesn't care. 
+Exactly. 
+Uh I mean that was before, but it seemed like maybe it was a bit um was the word a bit complicated to do. No. 
+Yeah. Better to keep it simple. 
+Yeah. Okay. So then uh I guess what we have we can keep building on top of it. 
+Yeah. 
+Uh where we have the settlement population and then we could potentially try and sketch out like the I mean let's see we would want to be I guess we have to sort of decide together like what what are we trying to fit into this model 
+uh cuz we could just like we could try and integrate movement but that sounds like it would get complicated like pretty quickly 
+whereas if we wanted to um just say like population has an inverse relationship with prey. 
+Yeah. 
+Uh we could model that. Um like what would be cool is to get to a point where we have like oscillation. 
+Okay. 
+Or or like downward spiraling oscillation or upward. I I don't know. Or just or some kind of stability. Um like maybe it gets like I guess that is sort of oscillation anyway. But let's see. Um, 
+so how do we write that in 
+in these terms? The higher the population minus No s***, I'm horrible with this. 
+I feel like it's like the prey is actually flowing into population. Okay. Right. 
+So that's is switched. Or I guess the other way to to put it I guess is having the population. Yeah. Uh be inverse. I guess what I 
+easier. 
+Uh yeah, I guess that that that tracks 
+because and I think that'd be more classic causal loop diagram way to do it. 
+So the higher the prey, the higher the population. Or this one is more of um s***. 
+Yeah, I would switch the flow. 
+Yeah. 
+And then have it be negative and then like negative population. 
+So I should minus and population. 
+Yeah. 
+Okay. 
+Because uh we know that every turn every mele wants to eat at least one prey. 
+Yeah. 
+Um and so So whatever the initial like if you had the initial um uh what am I trying to say? 
+Yeah. 
+Then it would just go down you know every turn. Actually would 
+yeah would it go? Yeah it should go down like super linearly so to speak. I think 
+like it stay it stays. 
+Oh pray is Go ahead. 
+It doesn't move. It kind of stays at 10 even though the population is going up. So there's something flow rate is 
+Oh, try uncclicking only positive rates. 
+Ah, okay. Let's see. Whoa. 
+Okay. Huh. So I mean it did it did decrease. Oh wow. That's like a whole 
+like some serious Well, this is looking at it in 20 year where yeah 20 years time and a population growth of of what's that 1 million. 
+So I mean that that kind of tracks I mean if we have I think the deal is that it went on too long. I mean we 
+you can look at the time and maybe what 15 years 1 to 15. 
+Yeah. 
+Okay. Let's try that again. So 
+15 years we have but why is the pre being minus 1.6 for exponential of what? Yeah, that's pretty 
+that's pretty deep. 
+Okay. Well, because I put the prey at um at one just 10 initially. So, there's 10 with one, nine with three. Does that track seven with six? I mean, we we we didn't establish how many. Hold on. 10 and one and then this is 9 and three. Does it take it in? 
+How does that work? I'm lost. My brain is fuming right now. I'm so lost right now. 
+Yeah, something feels like it's not quite right. Well, let's say what if we um 
+I mean We could simplify. It's probably something to do with like 
+maybe we should add like a variable of the the rate of consumption or something. Hold on. Let me see. Insight maker cuz they put 
+they put an an example that maybe could help us a bit. 
+Yeah, I think I I know what's going on. 
+Oh, okay. which I don't know how to fix it, but I feel like when we put the population negative population, um, basically, uh, it's it's not like whatever the last population is plus one. It's like the last population plus the the entirety of the new population. And that's why it's it's like going so extreme, 
+right? Swear I didn't understand at all what you said, but 
+yeah, let's check this example out. 
+So, you see they had the moose births and then that one is the moose birth rate times the moose. So, they created a variable of what what's that 25% of birth rate will impact this which will now I guess keep growing. But see when when we look at the thing, this is what happens. 
+Oh yeah, 
+that looks right. Yeah, that that looks like what we kind of want to 
+Yeah. to happen too. 
+So they used not only stocks but also variables that tied into the flow somewhere. 
+Yeah. So let's see our The wolves are meeples in this case 
+and the moose are the prey. 
+And so we have wait. Oh, I see. What are those little um what are the ellipses? 
+These guys 
+should be uh Yeah, those like 
+they're the variables. So they're what they call in this primitive thing here. They're called uh the variables. 
+Okay. So, they're just keeping track of things. 
+Exactly. So, you can link them to something else 
+and you can put a value here 
+and then f*** around with that. 
+Yeah. Okay, that that makes sense. So, the moose, sorry, our moose were our population. No. Or prey. 
+Uh I think the wolves would be like the meeples since they're consuming. 
+Okay. 
+And they have that starvation rate and the prey would be the moose. 
+Yes. Okay. So we have prey as moose. Nice. Um prey as moose and then population as uh wolves. And so for the prey, we're going to look at their uh sh was this. No, wrong one. Flow and transition. So for the prey, we're looking at their birth rate. No, their births or their generation maybe. Frey generation. 
+Oh, that's fray. Frey generation. Okay. And pregeneration is in is affected by um what is this? What am I doing? 
+Okay. Pregeneration is affected by something if I'm understanding correctly. 
+So 
+by the birth rate. So the generation rate. Or maybe that's not important right now. 
+Yeah, I think we could probably skip 
+skip that one. Okay. and just do a constant or something like that. 
+Yeah. So generation is what? One, two, five. I could do one. 
+One. Okay. And then prey I can leave that as zero for now 
+or not or a certain number. 
+Yeah. Put it as like 10 or something. 
+Okay. Okay. So we're done with that one. Uh instead of death, do we It's not important that death rate right now, right? It's more of the consumption of them. Okay. Well, yes. 
+The 
+so prey consumption. 
+Yeah. Yeah. We could model just the the prey consumption as in like prey deaths. But yeah, consumption is a better label. Um 
+yeah, I guess we'll add the link later 
+because that will Yeah. I wonder how they how they did that. 
+Let's see. 
+But the moose thing. 
+Yeah, 
+it's the wolf. Could you click on the wolf stock 
+birth? Oh, the stock of the wolf 18. 
+Yeah. 
+So, it has an initial value of 18. 
+And then wolf births. Could you? So, wolves times Okay. Birth rate. I guess that makes sense. But then, oh, I see. So, the moose death rate is being affected by the wolves and then that's then going to moose deaths. So in our case we would say like right so the the number of people would be an input to the rate at which prey are consumed. 
+I'm hoping you're thinking out loud cuz I I'm lost already. 
+I think uh 
+you think you got it. I mean what we 
+should I go back 
+we would we might want to have that prey consumption as a as a 
+as a variable. 
+So a preconumption rate maybe. 
+Yeah. Yeah. Consumption rate I think is perfect. 
+Yeah. 
+And that should be linked to prey 
+directly. Okay. Here. So it's fine where it's linked to, right? I believe so. 
+Okay. 
+And then but the prey consumption rate is influenced by the population stock 
+and it should be essentially just one one actually. Um yeah in in our model it would be one one. 
+So 
+so I should link it to population or to the to the population itself. Yeah, but uh but I believe I think the prey consumption rate in our case is equal to population 
+because we have that thing where each mele consumes one prey. 
+Yes. 
+But in the in the moose and the wolf model, it's 
+it's some other thing. Oh, yeah. Wolves times the death rate value. So Why value? Oh, who's death rate value? 
+Wait, what? 
+That's so weird. 
+Tom's the death rate. I guess that's the um that's a standin for like it's almost like the success rate of a wolf hunt. 
+Ah, I see. 
+Only way I can think about it. 
+I think so. Yes. 
+Times their success rate. 
+So, but in our case, There's no success rate. It's just 
+they always eat one every turn. 
+Yes. So, we don't need this rate value then. 
+Yeah, I don't think so. I think we would need just that one. 
+Okay. So, consumption rate would be tied to this and then this arrow should I guess be in the inverse direction because the population affects the consumption. generate. 
+Yeah. Yeah, I think so. 
+Okay, I see now. And then this link is with that. Okay. 
+Yeah, 
+we can say this is equal to population then. 
+Yep. Yeah, it should be equal to population. 
+That's the pre consumption rate, right? 
+Yes. 
+Okay. 
+And so in theory, If we set if we have a population of 10 and a prey uh a prey uh initial value of 20 or or also 10, 
+it should take 10 turns or in this case 
+10 years 
+20 years 
+to eat. No, wait. It'll take two turns for them to eat the the whole stuff. f***. 
+Yeah, we can make it easier on ourselves and just have it like uh Oh, wait. Okay, let's see. The preconumption rate. 
+It's not moving yet. 
+The prey keeps going up. 
+Oh, because we had a spawn rate, right? That makes sense. 
+Wait, what? 
+So, the prey generation. 
+Yeah. 
+Ah, we need that too, right? 
+Mhm. 
+Um, then I guess what I'm trying to do is have a linear like just to prove that that it's doing what we think it's doing. 
+Like a population of of one and a prey stock of five. or so 
+and then just 
+ensure that the prey stop goes down to zero in five turns. 
+Yes. 
+Right. Yes, 
+that's what I I'm hoping to 
+Okay, so arrive at 
+disconnecting the prey generation should I believe. Oh, and we would need to change the initial values, but I think that should do it. 
+So, I removed the pre-generation, right? 
+Yeah, at least temporarily. Temporarily. 
+And I put this at what? price. 
+Five and population 
+like one 
+one okay move that 
+oops 
+price stays at five population is at one 
+so it's not consuming something like that flow may not be consuming properly 
+yes I think there's a link that is missing cuz I think the these diagrams they need to have some links to them to make them for it to find okay this is affected by this and not that. 
+Try clicking the prey consumption uh flow. 
+Yeah. 
+Okay. Set to zero. It's just hardcoded. 
+So we want to set it to the prey consumption rate. 
+Okay. Yeah. And then now I think we should see it go down like we expect. 
+Okay. 
+At five. Yeah. And then in around five turns it looks like it hit zero. 
+This is four. Yes. Prey is at zero at five turns. 
+There we go. We got a real basic uh how it's like making sense. Wow, that's so cool. At least something worked. Oh my gosh, 
+this is great. Um, also, are you able to share the the um, 
+yes, normally I think I can copy the link. Okay, let me save this insight before I share it. How the f*** do I save it? Okay, save. There you go. Um, Um, survival simulation save. Nice. Awesome. 
+Okay, let me share this so that we can keep working on I think that will be very cool. Ah, 
+all right. 
+There you go. 
+Cool, cool, cool, cool. All right. 
+So, I guess if I come back the next week, I see that the whole thing is some seriously complicated No, probably. 
+But you have to teach me. This is what I want to learn. I think it would be cool if like imagine if we have um we've created something like this and when people play the game, right? They can if we have it embedded into the game online, that could be insane. Or in this insight maker, they can change some values and they can see how their actions would evolve over time, you know, and I think that's something That could be really powerful. 
+Yeah, that would be cool. 
+So, I don't know. Did you click on it and it worked for you? 
+Uh, I I think something went wrong with the Oh, there it is. 
+Can you edit it? 
+Let me try editing it. So, I'm going to say the prey consumption is twice the amount, twice the population. 
+H Uh to Can I not? Oh, wait. 
+I wonder. I guess I can't edit it. 
+Okay, hold on. 
+I can see sharing as editor. Okay, cool, cool, cool, cool. Um 
+Okay, I'll try to refresh. 
+I'll put your mail here. Um I think there's a different way to to share so that somebody can use it. So, let me try and do that now. Where is my There you are. Stop sharing. Go here. Let me find share to your Gmail or to which one? 
+Yeah, Gmail. That's good. 
+All right. I just sent you as a an editor. 
+Cool. 
+Uh, let me grab that. 
+Did you receive anything? 
+Uh, I let me check something. No, I didn't. At least not yet. It might come in in a second, but uh, 
+so far I haven't gotten anything. And this was to the August. Okay. 
+Um gmail.com. Maybe it's in spam or something. 
+Check. Spam looks 
+looks fine. 
+Spam looks great. Uh I'll check this one. Black. No. And then this other one. Yeah. 
+Gosh. 
+Weird. 
+Very 
+send it in. 
+Or if you click on the link now, maybe since you have access, it could work. 
+Yeah. Let me uh maybe let me grab a different window because this one 
+and maybe you log in as well. 
+Ah, I think maybe you might need to log it. I don't know. 
+Oops. No, I just want the actual thing. 
+It's funny how um easy technology can be sometimes and then how ridiculously come like hard. 
+I swear. Yeah. 
+Especially simple things like just sending a damn mail or a link, 
+right? Okay, maybe I need to log in here. So, I'll log in with Google. Oh, yeah, that's probably what it is. Continue. Yeah, I think you mentioned that. Uh, now, now I'll try again. And hey, all right, I can do it now. 
+It's working. Yes. Uh, 
+cool. 
+Finally. 
+Okay, I just tried it out and it looks like uh Yeah. Looks like for a business 
+it's working. 
+Mhm. 
+All right. Great. So, please if you're doing any stuff, if you can do like a video of it while you're doing it, I would need I need to learn this thing. So, I like how you are kind of giving me step by step. Although, I still don't understand s***, but I'll take the time to look at look at what this short this tiny one here and see, you know, what it means cuz it's really I mean, I think I need to force myself to learn it and because I find it very fascinating. I just don't have the brain power, you know? 
+It's not yet. Not yet. 
+I feel like it's just like uh I don't know this stuff does feel very pro like very much like programming, 
+but it's just like you know seeing like oh that number is here. Oh, that number like there it's just like like all of these little little things. But yeah, um I will definitely make a video if uh if Okay. 
+Um Norway, let me see for what's that Wednesday. Would you be free next Wednesday? 
+Yeah, I should be free next Wednesday. 
+Okay, cool. Let me put that up because now I think um if we can model the game on simulate it then we can really better understand the mechanisms that we put into place and it will really I don't know if it would help you in the design part of it like the programming part 
+yeah it would help me input that yeah definitely 
+because if you can already understand what makes what work and then that means that when you want to I don't know I'm I'm really I have no idea but I was thinking it might be very interesting because here we're moving from the causal loop diagrams to actually looking at the simulation of it and then we use the simulation to build the game and that's like our threepart game design process. OMG that's like some deep s*** that 
+threepart patented framework. 
+Exactly. 
+Someone was just telling me is like um she's like all you have to do is invent a framework. 
+That's Oh, I I promise you. Yes. Just have this is our theory of game design. It's a threepart framework. Phase one, phase two, and phase three. And you're golden. These guys will lap it up, you know. 
+That's awesome. 
+And yeah, thank you so much, man, for 
+for the time and for helping to accompany a newbie a noob in in simulation stuff. I had a great time. Um, so I'll put the
+
