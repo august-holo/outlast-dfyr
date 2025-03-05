@@ -1,0 +1,36 @@
+Player Turn
+Each player gets 3 actions per turn plus 1 extra action for each additional meeple they have. 
+
+A meeple spawns at the settlements
+
+Actions include:
+Move – Travel to an adjacent tile and reveal it if it is face down.
+Gather Resources – If a tile has resources, spend 1 action per resource to collect them.
+
+If there is no wolf on the tile the meeple may
+Hunt Prey – If a tile has prey, spend 1 action and roll an 8-sided die (d8):
+5-8 → Success (You catch prey).
+1-4 → Failure (You miss).
+
+If a wolf in on the same tile as a meeple, the meeple must take one of two actions on the the turn. If you have already used all your actions, the meeple on the tile with the wolf will be forced to fight the wolf as though it were an action
+
+Fight a Predator – If a tile has a wolf, roll a d8:
+7-8 → Victory (You defeat the predator).
+1-6 → Death (You do not survive).
+
+Hide – Use 1 action to avoid predator attacks
+
+Build: Spend 3 resources to construct something.
+
+Drop Resource: 
+if you drop a resource/prey on a full tile, the resource/prey will go to a free adjacent tile
+
+Fight another player:
+If you are on the same tile as another meeple, you can choose to fight them
+both players roll d8, the higher number wins
+both players can add resources to change their roll
+
+End of turn:
+
+Meeple consume food, one prey per meeple
+If there is no prey for a meeple to consume, they starve are are removed from the board.
