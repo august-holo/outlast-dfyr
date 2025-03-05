@@ -1,0 +1,31 @@
+Game Rules and Mechanics
+Test Round One: (5 Rounds)
+Revealing Rule:
+Ability to share resources with other players.
+Standard Rule:
+Each meeple adds one more action.
+Test Round Two: (10 Rounds)
+Standard Rules:
+Can pass over a tile without revealing.
+Hiding from a wolf.
+Battle with wolves occurs as an action like other actions.
+Start with 3 Resources.
+No reveal of the tile you place your settlement.
+Revealing Rules:
+Can pass through space between the tiles.
+Place a resource/rabbit on a tile and it will multiply. If you place two rabbits, the normal rules apply.
+You can eat the other player (1 prey) if you win a fight.
+Additional Standard Rule:
+Three Rabbits + wolf = new wolf & new rabbit, wolf moves to where rabbit goes.
+Test Round Three: (10 Rounds)
+Standard Rules:
+Each settlement spawns a settlement.
+Resources do not spread.
+New rabbits go where other rabbits are.
+Considerations:
+Rules for which tile newly spawned things go: toward resources, away from players, or clockwise from the top.
+If wolves are extinct, what do we do? Consider the number of starting wolves.
+If you build a settlement on a tile with three rabbits, wolves will not spawn.
+Better way to remember what was consumed in the previous round.
+Standard Rule (Tentative):
+Tiles are created when a meeple moves off an existing tile into a new space. In the unoccupied space, move in, place a new tile, read the number on the tile, and place resources.
