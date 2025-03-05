@@ -1,0 +1,172 @@
+Augustine von Trapp:We also have a transcript apparently,…
+Thomas-Julian Irabor: Not.
+Augustine von Trapp: but I don't think. But it's apparents, it says it's doing it. So
+Thomas-Julian Irabor: At the end of the pool, they use it with the teams that app as well. They really saves me a lot of time. I just put them into GPT I'm having somebody. All cool.
+Augustine von Trapp: That's awesome.
+Thomas-Julian Irabor:
+Thomas-Julian Irabor: So I was looking at I don't know if you've done a lot with Falls out of diagrams. I mean I said doubling them just to enjoy myself for games. I don't know what do you use and negative and it's
+Augustine von Trapp: I usually use a plus and negative but I don't mind it for you. and that's both our finest.
+Thomas-Julian Irabor: That's going personally because I tried to teach my students about it plus a negative always used to confuse them all the time. They would always see it in. This is negative. And that means They don't see this opposite, one goes up there that goes down. They see this And so let's try to know pluses the same and negative opposite and wait, always stresses them anyway, And really successful If the number of prey reduced then nothing is a number of people, more of the Migration rate, I don't know, migration of predator to house. Increases.
+Augustine von Trapp: Yeah. It could also be to the nearest player too, or to the newest or…
+Thomas-Julian Irabor:
+Augustine von Trapp: nearest human token.
+Thomas-Julian Irabor: nice.
+Thomas-Julian Irabor: There's also a negative
+Thomas-Julian Irabor: and the more they do this, then it reduces your population.
+Thomas-Julian Irabor: Yes, or not.
+Augustine von Trapp: Yeah.
+Thomas-Julian Irabor: This guy, I'm here and reduce
+Augustine von Trapp: so, yeah, that would be Right.
+Thomas-Julian Irabor: Is it just and production?
+Thomas-Julian Irabor: or prove the chance of Number reduction. But the potential,…
+Augustine von Trapp: It would be.
+Thomas-Julian Irabor: because you have the chance to roll a die.
+Augustine von Trapp: So Yeah, that's
+Thomas-Julian Irabor: I don't know. All right.
+Augustine von Trapp: There's another factor influencing that, but There is…
+Thomas-Julian Irabor: Exactly.
+Augustine von Trapp: This loop is still valid but It's not at least What do you do? You think that that's a reasonable? thing to
+Thomas-Julian Irabor: Yeah, I think in a more quality because it's the choice of the roller together. Put, for example, number of resources. That she was on the Number of resource in hand. Which really have to increase the potential of not being
+Thomas-Julian Irabor: eaten because you can add more to get to the desired state, I guess to defend yourself, sort of Competition of I don't know to say potential loss of okay.
+00:05:00
+Augustine von Trapp: Yeah, I think her population loss. Or.
+Thomas-Julian Irabor: Okay, thanks. I'll population loss. The.
+Thomas-Julian Irabor: The s*. Okay.
+Augustine von Trapp: is there a way to I don't know if you would do this with a delay or not, but I'm wondering. I've never thought of this before, but, thresholds for causal loop diagrams, Is to notate that.
+Thomas-Julian Irabor: Yes, we can put delays into that but we just use the equal sign so to slashes. then also we can use the time delays of phases in the game or What did you want to explain? So maybe I didn't understand what you're trying to say.
+Augustine von Trapp: I was wondering if there's a way to do threshold triggers, if Well,…
+Thomas-Julian Irabor: in the game. You mean, Yeah.
+Augustine von Trapp: in a causal loop where you have a rule that would be like if less than blah, then it would change the behavior or is that
+Thomas-Julian Irabor: That is to do. That's really dope.
+Augustine von Trapp:What was that?
+Thomas-Julian Irabor: Yes, it's good. I love it.
+Augustine von Trapp: I've never seen, but I thought, someone must have thought of that and I wondered if they were just like, that's Just a delay, it doesn't matter.
+Thomas-Julian Irabor:
+Augustine von Trapp: So it's wondering if what you thought
+Thomas-Julian Irabor: I mean I think we could test with that. I love the idea of having if because we're mixing some what they call is not doing that, if else was that they could,…
+Augustine von Trapp: control stuff. Yeah.
+Thomas-Julian Irabor: it's Exactly. I think I'll be really cool especially we're using these loops To. Create games. So let's try and adapt it to what we're trying to do and I think that's going to be really interesting to try. So yes, let's go with them. If else statement
+Augustine von Trapp: Yeah, let's do it.
+Thomas-Julian Irabor: Okay, so gration and Predator, migration, what am I doing? The height of migration, the higher the potential population loss.
+Thomas-Julian Irabor: Right. On the higher,…
+Augustine von Trapp: Yeah.
+Thomas-Julian Irabor: the potential population was what happens, the lower.
+Thomas-Julian Irabor: Spawn rate by population.
+Augustine von Trapp: Yeah, it would be a low respond rate. Yeah, I think that's pretty much and then possible. another thing we could do to make the population. And tell me if this is stacking too many things, but you could maybe lose a settlement as well. So if your resources drop, you lose people, but if your people drop you lose, settlements and those are more expensive like those don't come for. and they set you back, somehow.
+Thomas-Julian Irabor: Not that. but yeah, when you said it actually totally forgot about The settlement because we talked about being able to build right? Or maybe this is from…
+Augustine von Trapp: H. Yeah.
+Thomas-Julian Irabor: what you said. I felt it was a lot that would have to deal with mentally so maybe you just have population symptoms and that's it Because the house one, I mean, for digital game, could be
+interesting, but we troll the whole discussion, we didn't touch on building and I just thought that it was supposed to be a good part of the game, but maybe it might not be that important for this to.
+Augustine von Trapp: Yeah. Yeah.
+Thomas-Julian Irabor: I'll put it down.
+Thomas-Julian Irabor: Build lots of building, or
+Augustine von Trapp: loss of settlements or yeah.
+Thomas-Julian Irabor: You want to write your idea?
+Augustine von Trapp: and then this would
+Thomas-Julian Irabor: be with the population loss as well.
+Augustine von Trapp: Yeah.
+Augustine von Trapp: I guess. Confused. What did I do? That's weird.
+Thomas-Julian Irabor: So sometimes it does the double. Yeah so it's very hard.
+Augustine von Trapp: so yeah, there would be if you're no, this would be
+Thomas-Julian Irabor: But the potential loss, right? Yes.
+Augustine von Trapp: Yeah, so It only have this as an issue. and then,
+Thomas-Julian Irabor:We can drop below.
+Augustine von Trapp: Right.
+00:10:00
+Augustine von Trapp: Spawn rate by population. And I guess I mean, technically so,
+Thomas-Julian Irabor: I would affect your rate of successful, homeschool what I mean. Yes. Yeah.
+Augustine von Trapp: Yeah.
+Thomas-Julian Irabor:Why not?
+Thomas-Julian Irabor: Also how do we type population? okay, so the spawn rate, the less resource you can accumulate Or the same.
+Augustine von Trapp: I would. The more, right? Because if you have more population than you can go spread further and…
+Thomas-Julian Irabor: Yeah.
+Augustine von Trapp: gather them from the
+Thomas-Julian Irabor: And so, are we saying the five token movements? Do they apply across? If you have three, you have 15 possible movement.
+Augustine von Trapp: Good question.
+Thomas-Julian Irabor: That's also something. Yeah.
+Augustine von Trapp: That would make the turns quite long.
+Thomas-Julian Irabor: Exactly. Everybody would or do we say you have two movements we can lower the amounts you have a movement for token and more you have, the more you able to move around. No, I don't know. We're not really because you might have to start from somewhere. Yeah, that's annoying. I don't know.
+Augustine von Trapp:What if you had a I wonder so this just popped in my head. What if each token has moved?
+Thomas-Julian Irabor: Yeah.
+Augustine von Trapp: And so at the beginning of the game, everything's really slow. And then things get faster, because you have more. Tokens that can operate on the same tile or travel. but if you go through a population shrink or contraction, Then the way you eliminate them is by whichever is furthest away from a settlement. And so it's also like a punishing mechanic. So you feel…
+Thomas-Julian Irabor:Magnum.
+Augustine von Trapp: because then you're literally set back physically. You are reset to a less advantageous. Position.
+Thomas-Julian Irabor: It. Okay, how does that work? Can you explain to me again? I like the idea. Thank you. Very interesting.
+Augustine von Trapp: Yeah, let me see if I can write it out. So, one move. Per. Token from person token. I'll say pt. and then,
+Augustine von Trapp: Threshold or I guess if population loss is triggered.
+Augustine von Trapp: Could I? that was the spawn rate. Yeah, we need to think through what the contraction levels would be. But you remember a personal or…
+Thomas-Julian Irabor: Okay.
+Augustine von Trapp: person tokens by distance From. you're a settlement. That.
+Thomas-Julian Irabor: From the house. So, do we see just one or two? That means you can position your settlements and specific areas and help them to move because these are one more Her and two good. So how would that work? That means, It's like a worker placement. I can just drop it anywhere I have to move on the tile.
+Augustine von Trapp: I would think move on the tile. let's say,…
+Thomas-Julian Irabor: Okay.
+Augustine von Trapp: I selected the wrong thing, let's say I had the one so just to speed run through this real quick to see,…
+Thomas-Julian Irabor: Yeah.
+Augustine von Trapp: It's like turn one. I move here. Turned gather but then as soon as my other turn goes, I got another person because you spawn every turn. And so I could Another resource or I could move. And then turn to, I've got another person so I'm gonna it's Go there. And now I have three. So the next turn I have what spawning three more. So you would end up having a lot of turns really fast but the grow pretty quickly after the first Little turns.
+Thomas-Julian Irabor: Yeah.
+Augustine von Trapp: But hopefully.
+Thomas-Julian Irabor:Wow, that was very cool to see.
+Augustine von Trapp: Because I think to what's emerging my mind of, what be attention of this gameplay? Is this constant fear that something's gonna go wrong?
+Thomas-Julian Irabor: It is fun.
+Augustine von Trapp: It's gonna Yeah,…
+00:15:00
+Thomas-Julian Irabor: Everything is right now.
+Augustine von Trapp: and there's gonna be cascading effect. so, I don't know, I will have to play it to see if that really
+Thomas-Julian Irabor: I love that. I think they'll be really awesome because I think I kind of see better with the constant spawning in each round. but then how do we ensure that this morning maybe does the quirk of the game. These guys are just going to keep expanding and yeah.
+Augustine von Trapp: just ble. But you could have a total disaster if so let's say I'm in this state, And the next turn, I spawn, three more people, and that puts of the threshold. And so I get a penalty of because I couldn't feed my population. Up, it gets reduced by a third or something like that.
+Augustine von Trapp: Or even by half And so what I would do is be like, okay these are the furthest from the settlement. So, these go away.
+Thomas-Julian Irabor:Mmm.
+Augustine von Trapp: And then I guess I can choose these I want. But then I'm like, almost, The idea is that you would have.
+Augustine von Trapp: I guess that I was mostly demonstrating what I thought would be fun but
+Thomas-Julian Irabor: That's why. And what we were talking about that, my brain went to the event card, then maybe we don't need them anymore.
+Augustine von Trapp: or maybe yeah, we may not need or…
+Thomas-Julian Irabor: Yeah. Because…
+Augustine von Trapp: it could make it even
+Thomas-Julian Irabor: if it works in that way, then we can give an attribute with the players. Can think of why the players were lost on their tokens were lost. Again, link it to diseases disaster, they can really bring up experiences into that, and I could really help to still keep the game vague enough, so that they can fill in personal experiences and not. So that could be very cool way to them differently. Try that by eliminating the event cards and see how this dynamic I'm working. I think that's pretty cool. Yeah.
+Augustine von Trapp: Cool.
+Thomas-Julian Irabor: Sound videos. And so do the people know about this nice world.
+Augustine von Trapp: about the, what?
+Thomas-Julian Irabor: the threshold will do the players who didn't know about this direction, or they discover this, Through playing and they say when we get to seven and I can't see that then I lose five or something. Is that something that they can also try to calculate for themselves because you can help them if it's something that they can discover and they know how it works. And so they can key into that. Because I mean they do the systems thinking is identifying, be able to look at the leverage points, and then use those for the design detect you want. So what I'm going to make them easy, leverage points to see, but they should be something that they can find it out and better use it. And it's always something has to be linked with. The other people in the game. So, okay, look, we have to be under a certain threshold. that means you can't
+Thomas-Julian Irabor: Gather enough resources, you have to not gather resources, to be able to have a balance and then that brings decisions on who is going to sacrifice what's very focus around. And I think that's…
+Augustine von Trapp: Totally.
+Thomas-Julian Irabor: what make it more rich ones. I think that that's a good way. So it's the thing that the mechanism shouldn't be too difficult for them to figure out on their own. I guess if five is to too much three failures of the game like you fail and okay what happened? And they were able to map out. For example, with all we're doing right now, they can learn…
+Augustine von Trapp: Yeah.
+Thomas-Julian Irabor: how to map out the relationships that exist and get more insights over time. Closer to think about that and…
+Augustine von Trapp: Yeah.
+Thomas-Julian Irabor: incorporated into our reflection.
+Augustine von Trapp: Definitely I think one cool thing could be. You flip over a card. when you reach a certain population, you can reveal your new conditions and everyone gets
+Augustine von Trapp: And that could almost special.
+Thomas-Julian Irabor:mind blown That's like Rachel that was the rule change of the game. I mean.
+Augustine von Trapp: Yeah, I would. It's like but yeah. Good
+Thomas-Julian Irabor: No I mean please finish so that I can better understand what you mean. It's good.
+Augustine von Trapp: I was thinking because you were, saying it's kind of like you discover these things. Up, as you go along and you never really know What? my thought is kind of cracking to the idea of limiting factors where There are these things that come and get you in the end but they're kind of complex. It's hard to predict them, but
+00:20:00
+Augustine von Trapp: But no one. Really think basically it's really hard, it seems for societies to premeditate. It's pretty much something we always stumble into, for better for worse or worse, I guess, but a couple play throughs, you would start anticipating it, but you never know…
+Thomas-Julian Irabor: One.
+Augustine von Trapp: what it was.
+Augustine von Trapp: Be looking for it, the range. That's yeah.
+Thomas-Julian Irabor: Yes, exactly something. They still vague enough. That it's okay. We've experienced this before. How do we take part from this experience know that this would probably happen? Next time we need to be Prepared to withstand the shotgun so we can talk about resilience and all over that crap from that. So yeah. I love it. I I'm sure we save this good. Because I think for going pretty far in this session and…
+Augustine von Trapp: Yeah.
+Thomas-Julian Irabor: it's already 10 past 9. So
+Augustine von Trapp: Yeah, right. That went by fast but yeah, that's
+Thomas-Julian Irabor:Went by super fast, Yeah, it was really great. I mean any other things that you can think of,…
+Augustine von Trapp: yes.
+Thomas-Julian Irabor: please add and let's start linking these things together and see How is my workout because it sounds really exciting.
+Augustine von Trapp: Yeah, This is really coming together. It's really cool. All right, I'll send you the difference.
+Thomas-Julian Irabor: I'll look online. Yes, please. I want to look on my calendar for the next meeting. We set. You have any preferable times? I was just fine.
+Augustine von Trapp: Let's see.
+Thomas-Julian Irabor: All the dates there are. I can selected.
+Augustine von Trapp: Yeah, those should be great, there might be so I guess Let me just check one thing. I will probably be a little bit more limited. probably still can meet but there's a chance that my Internet will be pretty bad because I'm going to go visit my parents and they want to like Internet,…
+Thomas-Julian Irabor: Okay.
+Augustine von Trapp: so healthy, kind of Yes, so yeah, but that's from 16th to the 21st.
+Thomas-Julian Irabor: I tell And then,…
+Augustine von Trapp: Of this.
+Thomas-Julian Irabor: so better, get one just before you go, then that'll be interesting to still stay fresh in the juice and to, hopefully get some new perspectives I'm inside of our trying to do. But that's great. Thanks so much for a very nice conversation. Have fun.
+Augustine von Trapp: Yeah. Yeah, totally Same
+Augustine von Trapp:
+Thomas-Julian Irabor: Very good. it's 9 pm for me here. So I'm guessing here.
+Augustine von Trapp: Yeah, I mean it's pretty much evening already. So yeah. Only soon.
+Thomas-Julian Irabor: Have a lovely day, right?
+Augustine von Trapp: All right. Yeah. but,
+Meeting ended after 00:23:09👋
+
