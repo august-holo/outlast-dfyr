@@ -34,3 +34,21 @@ End of turn:
 
 Meeple consume food, one prey per meeple
 If there is no prey for a meeple to consume, they starve are are removed from the board.
+
+
+----
+
+----
+
+Board Turn
+
+The board takes a turn after all players have acted. The following events occur:
+Resources Grow – Resources regenerate, but only if at least one resource remains. If a tile has 0 resources, it will not regenerate. A tile can hold a maximum of 3 resources.
+Prey Multiply – If 2 or more prey (like rabbits) are on a tile, one more appears (max 3 per tile). If only 1 prey is left, it does not multiply. If there are 3 prey, a new prey is added to an adjacent tile and subsequent prey will be added to the same  tile until 3 prey are present.
+Wolves Move – Wolves move toward the nearest tile with prey.
+Wolves Multiply – If a tile has 3 prey and 1 wolf, a new wolf appears. However:
+There can only be 1 wolf per tile.
+The new wolf moves to an adjacent tile with the largest number of prey.
+New People Arrive – Each player gets one new meeple in their group.
+Wolf Attacks – If a player is on the same tile as a wolf and didn’t hide, the wolf attacks.
+Once the board turn is complete, a new round begins with the player turn phase.
