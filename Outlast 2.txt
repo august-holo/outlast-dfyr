@@ -1,0 +1,280 @@
+
+some simulations with it. So, I thought that could be pretty cool to to do. And then I found an an article, that's the one just next to it, that was talking about um how these people were creating um games using well, what we're trying to do actually. So, the causive diagrams first and then trying to model them to better understand what the game dynamics would be before actually creating the game. So, I thought it would was quite interesting that something had been written on that and it was published in a systems dynamics uh uh journal I think so that could be something that we can aim to do as well and maybe reference this if we're going to write an article on it. So I was just trying to gather all the information that could really help us to to put some structure and some theory to what we're doing. 
+Yeah, that sounds awesome. cross this before or interesting 
+what the insights maker 
+yeah 
+and I found it through a guy I don't know if you've heard of Jean Bellinger before he's very active on the systems anything systems world a very nice dude um and he he gives me all like different tools and different things all the time so anytime I have a discussion with him he He says, "Oh, have I checked this out?" I'm like, "Oh, s***. Okay, something new to to explore." And he put me I think he knows the guy that created the insight maker. And so I haven't tested it yet. I've looked through it and I've seen the examples that they use and I was I was like that could be something cool that we could do as a as a project to kind of put in the the different um parameters and the variables and the stocks and flows and actually run a simulation on it and see how it fluctuates over time because they had some predator prey models already. So, we can get some inspiration of that to see how ours could run as well. So, 
+that sounds cool. 
+Yeah, cool. 
+Um, what else? Um, other than that, the only thing that I did was I tried to kind of reook at the um what our objectives were actually, you know, what we were trying to do for sure because the the idea of that new game that I mean the the emergence of this new very fun game that looks like kind of a simulation on population dynamics is very cool. Um, and then I was now thinking about well do we have multiple objectives at the time. Is that the the idea now? So, I kind of made a list of all the things that I was thinking about 
+and see how we try to ensure that we maybe pick and choose some or we find a way to encompass multiple things. I don't know. It's up to us to kind of define that along the way. And I also don't want us to be caged into anything. So, as much as the creativity is flowing, let's go with that, you know. 
+But yeah, 
+so I put it down down here on the core learning objectives. Um, I was thinking the game has a a multiplayer mode. The what's the idea behind that? Are we focusing more on the participants themselves and what they can bring in terms of um not just uh how did I say it in my brain? So, the game that a single player where you only have um A finite set of choices means that you're you don't have much need to interact with other people in the sense that your choices are 100% limited to movement only, which is good as a oneplayer game because that makes it a lot easier and it's something that you can watch over time. But if you have to be able to make strategic decisions and you have to discuss then having one choice as a thing to do becomes very limiting unless we find a way to make it happen. But in when I was trying to see the trajectory, it doesn't leave room for uh negotiation and conflict and things that they would have to ponder on and try to to to solve or opens up um possibilities for collaboration or coordinating some certain things. So these are the areas that might be missing and those are the strong areas that bring people together in a game in that sense. And if we are looking at the group dynamics and how players are going to be negotiating public goods or understanding tragedy of the commons or any um archetypes that we want to put in the game, there has to be that player agency and that possibility that they can make mistakes and learn from it. But if we don't give them the choices or the actions that can do that, in the game then we lose that aspect. That's what I was thinking and I thought that would be important that we put that down. 
+Yeah. Yeah, that makes um Yeah. 
+No, I I think basically Yeah, you would have very I mean the the different paths you can take towards win state go up like 
+you know massively with each possible thing the players can do. And you know any kind of surface area for making strategic choices will will uh create more possibilities. Uh I mean but like orders more. It's I don't know the math but like 
+uh 
+yeah uh so 
+yeah I think 
+it makes sense to I mean it makes sense to experiment definitely. Um like yeah finding the right balance between what the uh players can do with each other versus giving them like a clear path towards what they could even expect out of the game from a dynamic standpoint. I think it's 
+yeah that makes sense to explore that more closely. 
+Okay, great. So that at least we don't forget it. I think it's just to have our base like um our baseline lighouses. Okay, this is where we want to achieve and so we need to create the conditions that could lead to that or is make it favorable that these sort of discussions can come about. So that's what we have to take into consideration for the two to four player mode. But then we can also look at the fact that the game can have a oneplayer thing which is where we're simulating like it's sort of a model actually and people can change I guess by playing the parameters that would change and you can see how these things can fluctuate in time. time and this is something that can be used if it's um paired with insight maker for example people could take out the individual variables that they find in the game they can add values to it and they can see how it can change over time that is also extremely exciting I think it's a very cool thing to also experiment it just now goes into what are we trying to achieve I think that's where the point comes in so that's why I put it down and then I was looking at research objectives. So I am in the academic field as well. I thought it would be interesting for us all these things can also give us an edge in credibility. So in terms of statistical analysis of strategies for sustainability that can come in in the two to four player mode. Um we can look at simulations and modeling of of different dynamics that can come in the one player mode and we can do a lot of different publications on on how we also created the game. That is also the whole methodology behind it. How we went through the process. That's interesting to look into. And then I looked at business objectives because I'm like, we're also trying to run businesses as well. And so in my mind, the one player one seems like a better business opportunity in the sense that to gather four people together is always a difficult task unless we're dealing with teams and organizations. But in terms of quick return on investment. A one player thing is something that people can use at any time and thus it is something that can be given as a what's it called subscription. You can pay to to have the data that comes out of the use that you're doing with the game individually and you can have multiple people use it at the same time. But so these are the things that I was thinking about. What kind of source of revenue can we gain from this if it is an something that we're looking into but I try to open the field as large as possible so that we can see all the possible you know ways that we can key into it. So if at the end of all this we're doing we say okay look we think it might be a good business objective then we focus on that 100% and we get that done you know but so that at least we have options and then we can actually narrow down over time so I don't know where your head is at on that what you have as an idea on that as well I think that's what I want wanted us to talk about initially for the first 20 minutes before we go back into the the the dynamics of the game. 
+Okay. Yeah, for sure. Um so your points about the different uh player modes make sense. 
+Um one would be like 
+definitely more exploring 
+uh dynamics as sort of a how do I put this? Uh just sort of like the mechanics like the complex mechanics 
+that are going into this analogy of of nature and human activity. 
+So that that tracks um the multiplayer also yeah like you're adding like an actual social dynamic to the analogy 
+uh which you know also has a lot of interesting learning potential. So the outcomes are still learning but they're yeah they're kind of like 
+one very specific important extra element to it. 
+And then for the business objectives, so the way that I usually think about that is um is like you kind of need to have I mean speaking of loops, you know, you have to have like a loop for that as well. Um so I mean unless you are lucky and you make something incredible the first time around, uh You have to keep like you have to put something in front of someone, 
+figure out how to make sure like figure out what they actually think 
+and then you know work that into this design and then put it back in front of them or someone else which is like is a whole infrastructure. 
+Um so that would be I think when you get serious about business objectives I think that kind of loop would be probably necess neessary. 
+Yeah. 
+Unless unless it wasn't as important to like make a really competitive or compelling product 
+and just kind of like make it available and make sure people knew about it, 
+but not necessarily like applying the effort to craft a product based on, you know, reactive data or, you know, reacting to user data or something like that. 
+That that stuff gets um Yeah, I don't know that those are my thoughts on on that. Definitely. Obviously, there's there's like more than just the game. Yes. When it comes developing a business use case. 
+Uh but you know there's no reason that that feedback loop can't emerge out of uh you know a couple fieldings of the game or like 
+you know things that are along the way of creating a good game in the first place. So 
+okay 
+it might be integrated and easy to to do. 
+Okay. All right. Cool. Thanks for that because I was thinking about the end goal and you know we talked about the uh we're both running consultancies and I think there's always a possibility of of collaborating and partnerships and things but then there's also the aspect of you using it in your regular consultancy roles and and that to me also encompass the business objectives we're looking into, you know, so to say how can this fit into what you're doing already. What does that what could this help you to have an edge on or do we have it as something thing like um so my brother plays this weird game where he he just watches something that happens and he can choose to add something else and he just watches and he goes on he's there for like two hours and he just keeps going you know and he says oh it's really addictive and so like okay that aspect we we can key in data of choices but we can also make it something that people can pay to use use like a like a an app or something if we're looking at monetary like making money off just the fact that the thing is this running simulation over time you know or how do universities or organizations want to take this to use in their in their um classrooms or in their uh I don't want to say organization again cuz it sounds redundant but how they use that to be able to do something else I don't know what it is exactly but Do we have to think about what the business use cases would be now so that we try to integrate that into the design to make sure that it's relevant at the end, you know, and and that's where I'm a bit struggling because I don't know really. 
+Well, I mean, one way I can see it happening is uh is instead of thinking of the game as a product, the game as a lead. 
+Okay. 
+Sorry. 
+It's like a like something that attracts attention because like attention is hard to get. Uh when you're running a business, the right kind of attention is gold, you know? I mean, like that's 
+once you have someone's attention, if you know what you're doing, you're, you know, a lot closer to your goals. 
+Um and so I mean that's where I feel like this would in my, you know, and this is just thinking about for not super long. But uh 
+that's where I feel like this would fit in really well because you can frame it not as a user centric product. You can frame it as a knowledge ccentric product. 
+Okay. 
+Or a knowledge centric uh project rather 
+and that that way the game doesn't have to like the game can just be the game um but it is interesting and it attracts the type of person that you know wants to learn more about system dynamics and wants to know more about how you craft them, how you gain insight or maybe leverage them. And so the way I see this being used is something like um you invite people to a workshop being like hey 
+everyone who is X Y and Z maybe they're the head of a head of a you know organization or they're you know head of design or they're head of this or that. 
+Uh I I have this awesome thing that's a workshop that's free 
+and basically throughout and I'll explain how to play this and we'll play it and it will be fun and in that time you will see what I'm capable of 
+and also I have my logo here you know 
+and you get my email I get your email and that kicks off a basically you jump over a whole lot of other shenanigans to get credibility. with, 
+you know what I mean? That that's how I think this could be used effectively without 
+rethinking the entire uh premise of the game. 
+But if it's a product, then I think you would want to go back to the drawing board and be like, what do people need? Who who who do we care about and what do they need? 
+Ah, okay. 
+Because if you start anywhere else, it's like a tough road. Okay, cool. That's I like that. Then just to also see where you you're you're at on it, you know, I in terms of what you um um feel that you can gain from this so that I don't want you to feel that you are wasting your time as well. So, thanks for clearing that out for me and having it explicit. So, I think that's great. I just wanted to be sure about that. 
+Yeah. Yeah, of course. And, you know, interested to to hear your response to that. But, uh 
+yeah, for sure because for me actually Um um I I always entered the loop of of research and I think that's the thing I'm very conscious about now, right? Cuz I'm trying to transition from the research PhD whole thing into actually going to business. But I really am passionate about just learning things. And to me, I'm having such a blast. And I I don't want it to be that I'm, you know, my brain's like, "Yeah, I mean, this is research. I can I don't mind spending my time doing this without having anything in return, you know? So, that's how I see it and I love it that way. But I I didn't want it to be I wanted to make sure that we're on that same page so that you don't feel like okay, we need to get this somewhere at a particular time because you have some expectations on certain things so that we know how well we you know how I can match your speed because I'm also open for or something businessoriented as I'm also trying to break into that space and it's been a nice breakin but all the things I've been getting from business have come from the research and so it kind of worked in that sense of attention grabbing opening doors then the business came in so um I don't know any other way to get a business than that so I just wanted to to be sure that that tallied with how you were seeing things and and thanks for that okay Yeah, that that all sounds great. I feel like we're probably in alignment then. 
+Great. Cool. 
+Um, yeah. Awesome. Uh, let's see. I guess actually one one thing that might be interesting is something to work forward or that work towards yourself 
+is 
+uh, you know, not like a hard date or deadline, but the intention to host a workshop together um being like hey we came together because we both have this interest we're in the business of you know dealing with uh you know this kind of material and seeing what how it can be used to benefit people. 
+Yes. 
+And we've got so much cool stuff to share. We're going to do this workshop and um invite all the people we want to or who under like comes across it. 
+Yeah. 
+And then And um that way it's a bit of a balance between the pressure is not super on to be like and then you're gonna 
+everyone's going to buy it. 
+And so I mean it's still really valuable. It's valuable to us individually and collaborative 
+and um 
+and but it's also something that's like kind of a real goal 
+that can um help us make the right kinds of decisions when we could go any any particular way this will help the path forward. 
+Great. Okay. So, let's set that as our I mean because the workshop can even just cover um the area of how we created the game is also can also already be a workshop. So, we can have stages of workshops. It now depends on how much are we willing to share. I have no problem with sharing my heart out. I have no problem with that, you know. There a lot lot of people I meet that are always yeah you can't just give everything that you've done people are going to steal it. I'm like well I mean it's not easy work you 
+so they they'll have to put in some work as well. 
+Yeah. No I I'm on track with that and that's that's very much like in the software world which I am sort of tangental to 
+the open source method like sort of philosophies. Exactly. that 
+you know you make it available but like anyone who knows knows that like a general framework is not the same as an applied 
+exactly and yeah anyway 
+all right cool so in terms of that then that's we can I can think about ideas on um for example the if we want to have something a bit more concrete I can work a bit on that on the workshop aspect. Um, especially those that pertain to how the game is being designed. And so this article can give us an idea of how we could structure that a bit better. And then the things we can cover from just initially talking about it to, you know, putting it down as a as a causal loop diagram and then going into, you know, changing it into a stock and flow. And if eventually we use the the insight maker and everything then that would be really cool because we can now say okay well we finished that and look at how we can simulate it over time and people like oh s*** mind blown. So that can be something that we can 
+work on and have that as a package and then it's something that we can show people that yes we actually do use these systems tools. We actually apply them in our day-to-day activities during this process and we're going to show you how we made it work and that's something that can be very valuable I think for a number of people. 
+I gotcha. Okay. Um I'm just writing down some of the steps that you mentioned like uh yeah. So like essentially using this as a using this um this document that you have up here links 
+that would be you know kind of a guiding you know guideposts for transferring some of the stuff we've already done. 
+Exactly. how well it fits into this this it sounds like there is an implied connection between or direct sort of transition from anything that fits into this 
+uh framework described in the document to the site maker simulation software 
+and then that and then okay so if we can if we can translate it into this uh and then translate it into 
+into that yes 
+so I mean if we can because I'm not very good with stock and flow diagrams and so what you have been showing me I've been learning a lot and I can see how we can use that I mean from what you can help me with to learn how to transform what we have to a stock and flow diagram and then actually reo it on the insight maker because it's I mean I looked at it today and it looks relatively simple to do you know you put the variables and then they give you parameters that you can actually add things in. But I guess that one might also maybe help you in the coding part because if you can have the exact variables that are needed to to change over time. Um I don't know if I'm explaining because I'm really s*** with math and code. So maybe I should stop there. I don't know. I I'll read a bit more before I go into that. 
+Yeah. I mean I think uh if there's any extra stuff that needs to go into the like the actual modeling um beyond just the diagrams. 
+Um it it seems like that the utility of insight maker is to create a is to be able to use your skills at creating a a diagram. 
+Um and that would translate directly into a uh a software model. 
+Exactly. 
+Well, like a graph like it's I don't know if you try to open it yet for the first time. 
+Yeah, I see. Uh I see Well, I haven't Oh, here I'll click like the simulate. H Yeah. Okay, that seems exactly what this is. So, let's do 
+I mean it's it's a lot of just variables, relationships, and 
+things but abstracted. So, you don't actually do formulas. 
+Exactly. 
+Yeah. Okay, cool. Yeah, this is interesting. So I mean I don't know the based on your experience I don't know how interesting that would be because I'm thinking about um if for example in the game that is made in terms of the data analysis that comes out um the choices that players make can be something that we can show you know people can have these individual graphs you know and and it shows them how their choices changed 
+with multiple inputs. I'm thinking about the multiplayer game. That's going to be insane to see how based on the choices of other people, it really caused a serious shift in in different parameters and and so this is what we can use in the talking about sustainability. What can influence the birth rate or the the the predator spawn rate or this one rate based on the choices that they made earlier on? And so we can look at dependent probability on that. So there are a lot of cool things I feel that can come out from that. And people love graphs. I know they can't read it for s***, but they love looking at that thing. 
+It just makes it seem credible. You know, it's like, oh s***, there's a graph. 
+Yeah. I wonder what that is. 
+I wonder why. Cuz I I look at graphs like what the f*** am I looking at? But people people like that thing. I don't know what. So I'm like, okay. Especially when UI designers just throw graph like this takes so much more to make but anyway uh okay cool. So I guess then what we would want to do is um I need to read this this paper um and 
+there's not much to it to be honest. It's like everything we're doing is roughly that They used it for a couple of school kids. Um, and they told them to create games, right, themselves. And so they they started using the they would give them a scenario and they tried to reo the scenario using variables like how we did and then they went on to create stocks and flow diagrams from it and then they went on to actually code them. So it's exactly what we're doing. we just now have it in written format. So if we want to write an article, we have something we can base our steps on. And so if you can at the end of this our call, I would really love that you send me all the things that we have maybe um recorded over the past if they're still available. 
+So I need to record this too. 
+I'm already recording on my phone. So I need 
+so that I can make sure that I and put all of that into one notebook LM and have like a draft sheet of of the things that we're doing and that will just help us to 
+to you know save a s*** ton of time in writing at least. 
+Understood. Yeah, I'll send you those recordings. 
+Thank you so much. 
+Track with Yeah, whatever you everything you just said sounds great 
+and agree with. 
+So they just did the systems and then they talked about it. I think that was roughly it. Um, 
+so then I guess we would I mean there's a few things I think we need to iron out with the game. 
+Um, for instance, the win state. I'm still 
+like I could definitely see the bad ending. Like that's pretty clear, 
+but I can't at this point fully envision the win state or like a good state. 
+And I think that would be probably the biggest hole so far in the game. 
+But After that, I think if we know the two two end states, we've got a pretty solid understanding of like the basic mechanics and we could probably start 
+I mean, we might even be able to start throwing 
+those in the insight maker and just seeing what happens. 
+What happens? Okay. 
+And then we should also I think we should definitely like spend a session just running through writing down the rules. I mean, we have I think a lot of the rules written down explicitly but like gathering them. 
+Well, the real one I think the real ones are here. I think we're starting everything from sort of scratch ideally because this these rules that we wrote here on playhouse and then the movement uh right next to the board um I don't know if you can see my yes these ones that I was writing when we were talking these are the ones for the I would say the one player game 
+in the sense that You have your mele does the actions in a preset order. This this this and this and then it spawns. And so do we finish do we finish the one player game? We say okay let's go through all the mechanism and the instructions for it and see how that pans out. We we describe as you said a winning state and the losing state because the winning state would change as a one player. I believe the the the multiplayer one was have the highest number of settlements and you win or having the highest number of population that still survives at the end of a certain number of rounds and you win. So, that one is pretty straightforward because we're pitting people's competitive nature against them and seeing how they think about the other dynamics instead of only focusing on the win state. That's that one. But the one player actually have no clue what the win would be if you're alone. Are you battling against compute. I I have no idea, you know. 
+Yeah. Yeah. So, yeah, I guess what we'd want to do then is 
+Yeah, we probably want to get the closest thing to a full rule set in one place. 
+Yeah. So, that's what we work on today. 
+Yeah, we could do that. Uh and so, yeah, full rule set. And then I think from there, I mean, we should also probably just Choose one of the game modes. 
+Yeah. 
+And and go with that and then deal with the other one 
+later. 
+Later. 
+Mhm. 
+Uh like the multiplayer I guess is the one we put the most thought into or 
+Well, no. I mean that was a GPT thought process. So this one I think so far is the is the most combined thought process that we've gone into. I think and I think I value this more. in the sense that it's something that is coming out of our joint discussions than I don't know I don't know how you you would see that but 
+do you mean that the single player or the multiplayer is more 
+single player 
+yes because it's something that we like emerged through our discussions and we're trying to now write it down so I don't want us to lose that momentum from that I feel We've already come up with three main rule things. The I mean this is all the player and movement. We just have to figure out how the predator rate and the prey rate moves and then what happens how how a whole round finishes what's the sequence of rounds and then I think that will be fine. 
+Okay. Yeah. Okay. That's Sounds good. So, we'll start. So, we'll do the the single player. We should probably Yeah, I think we could probably we should best talk through probably the end state. 
+Yes. 
+And then I think once we have that, we should be able to like put together a pretty comprehensive rule set. 
+Okay. 
+Um, so as for the win states, um, so just off the top of my head. What seems like Huh. So like basically you would want to have a sort of a very controlled oscillating pattern is is what you want to achieve, right? Does that track? 
+Yes. 
+Okay. And so the the goal then because the the oscillation is going to be like what we don't want to have Well, let me think. Uh, I'm just spitting ideas out, but like basically the paths to this is either a very careful sort of like mostly linear progress into a steady state. 
+Mhm. 
+Where you very slowly grow into like your population as a human player grows into um its largest sustainable size. 
+And the natural dynamic give you. If you're listening to the dynamics, you'll know when that size is achieved. 
+Exactly. 
+The other way to get to it would be to vastly overshoot or undershoot and experience punishing like, you know, but that guide you to like, oh, I undersshot that time. I did it. I didn't do enough with my people 
+and so now a bunch of people are starving, but then, oh, I overdid it with the people. And now a bunch of people are starving. 
+Yeah. 
+So, both of those might happen. Do you have ideas of which I mean there might be other things too, but I guess I'll stop and and ask you what you think. 
+No, please. I mean, if you have any I think that makes um sense. It kind of ties with the first idea of the win state. You how high can your population go in a fixed number of rounds? 
+So, I think the fixed we can have a fixed number around now because it helps people to say okay that's a goal we would like to attain right but I guess if we're looking at people's simulation ability as a like a model you can have you can change the number of rounds to 50 and then you can just keep going if you want but the idea is we put a fixed number of rounds 15 or 20 for example and that represents every year in the life of the little meeples and you see how many can you actually achieve because to be able to do that the subsequent plays you're going to make is going to help you to understand as you said the oscillation patterns the dynamics that exist how things spawn and die how the predators come and all that knowledge is what you're going to gain from trial and error 
+and so that is the addictive win state in that sense 
+mhm So that's one thing I can see and lose state would be you did not reach the round before all your people were dead for example. So if you don't reach the 15th round then 
+you know if you lose all your population before that time then you're dead. And so this G brings in the element of competition because I can do it and I can reach the 15th round but I only finished with two population numbers because they everybody starved and everyone died. or you were able to get to like 20 and I'm like s***, how did you do that? And so these are the ways that people can try again over time and and get better at doing it. Yeah. 
+Okay. Yeah. So basically Yeah. Well, the only So one thing about that is what if you were able to uh grow really fast on the last three rounds? 
+That was your strate like you could probably win by just exploiting the resources uh at the very last moment. 
+Yeah. 
+Do you think that 
+I mean that would be a hack? 
+That could be a hack. Yes. The only thing with that is the game automatically spawns your players. So you have to think on the fly. I I I don't know if it would be something that you can save and then do. I have no idea. I'm not sure. But does a game ex I don't know if You've heard of the habitat game. I worked on this with a couple of people uh a while ago and well we don't we don't talk anymore but it was a cool it was a cool game at that time. Um let me try and send it to you. Habitat by Tobias. It's a game on each. Yeah. Here you go. Copy and paste in the chat. And that game does how I tried to win it. I I waited till near the end and then I boosted my population a lot, you know. Uh so that that can be very funny. I don't know if you received the link. 
+Yeah, sorry. 
+You can hear it. 
+This is cool. I want to try this out. 
+Um 
+but uh before I forget, another that I was thinking of that might help mitigate like the uh it's the futures problem approach to uh the game would be um a number of consecutive rounds without a starvation rate. 
+If you can get to five rounds where you never go into a starvation mode, 
+then you've hit I mean because it kind of makes sense that's like those are the boundaries of the wave. 
+Then you know then you win and but like otherwise you're like, "Ah, you know, I got to three and then I overshot." Or 
+that might also be 
+a bit more complex win state. I like that. I think that's pretty cool. 
+It's simple, I think, to like from a user mentally like they're like, 
+did I do it or not? You know, 
+that's true. To not let them starve or not. Yes, it's true. 
+So, once you lose a player from starvation, then you automatically lose the game. Well, you're reset and now you have to start over again. 
+That's what I'm thinking. Um, but there might be problems with that, too. 
+But, uh, yeah, at least, um, 
+let's pop that down then. Let's write that down. Loose states win. Nice number. 
+Yep. Tell me. 
+That's the other element to that is like it's kind of it could fit into the like addictive sort of fun play where you're like, well, I got, you know, I got six rounds, 
+and I'm pretty good at managing and anticipating. 
+Yeah, 
+I can really read these dynamics so well that I can anticipate when I need to do a bit more, when I need to do a bit less. 
+Then the next person's like, "Oh, wow. Well, I got, you know, eight rounds." 
+That kind 
+That's funny because for us, we they put in a leaderboard and so people could kind of see 
+who got the highest and like a s*** I can I can beat that guy's score. So that could be something interesting to work with as well. Wind state is highest population without starvations. Is that highest? Uh 
+highest number or yeah highest number of consecutive rounds without a starvation rate. 
+And also the other thing I kind of like about it I mean I know I'm just kind of talking up this idea so feel free to talk it down. 
+I like it. uh poke holes in it. But um one thing that's cool is I feel like the messaging is also nice because people be like, "Well, this is a cool game." But like, 
+you know, any any lesson that's learned is predicated on the fact that the world ends, you know, at a certain time. 
+Yes. 
+Uh and we'll just have to be okay with just getting to that point and then forgetting it. 
+So, it's a sustainability game kind of. 
+Yeah. Like is if Yeah, I believe so. 
+Well, that's cool. That's a good message. We're sticking with the I mean, we're also going with the trend, I think, so which is good as well. And people might buy into that. Um, so I think I like that a lot. And it's also something that it means things can reset almost immediately. So it's like, oh, you got one person, 
+you're not supposed to, you know, you're not supposed to let anybody start. curve. So that also puts a good like spin on it is it will be hard but it's like okay I actually really do not want these people to starve and so that's a nice it's a nice tune. Yeah. So that means you can't have multiple people dying. Well you can still you can be doing so good and then you make a wrong move and then you have like five that die in it once. Okay. So that's cool. Yeah. The other thing is that the about extending this to multiplayer potentially where 
+like the competitive element is like 
+who can have the most like if anyone goes into starvation 
+then 
+like loses but you still want 
+to edge uh above the population number of your competitor. 
+Exactly. 
+Can't do it like if you if you you know too aggressive, 
+then you're gonna have everyone fail because 
+you overexploited. 
+Again, I think fits pretty well with the messaging. I mean, that's kind of like a Yeah, like stable states are um you know, more preferred than like this idea of a linear static state. 
+Yeah. 
+Anyway, 
+so that one in that sense I mean it opens up the that's the tragedy of the commons game then 
+and I feel well this is a bit of my bi not a bias but a bit of my how do I put this so the game I made earlier is the tragedy of the commons game right and so I'm like I don't want to do that again but it's cool it's actually 
+it's not a big deal 
+it can be in a different format you know so I was looking um into what public goods you know the the idea of Everybody has to find a way to keep it working. But if somebody it's available to all, right? But if you don't do it, then it's people can free ride. I don't know if there's a possibility to free ride on other people's good intentions, you know? So it's like, oh, they are trying to keep things in a good way, but because of that, they're making abundance of something and you are just picking it like he Okay, I'm going to check, 
+you know, and that is another dynamic that I haven't been able to do yet. So, that could be interesting in a game to have that because that means people can die out in the sense that you have four players that are playing, but you end up with finally just three or or two and and it kind of mimics a I won't say a real life situation because there are people that are dying and other people are still living, you know. So, It's to it's also to see how real do we want to go. I actually do not mind the the um common goods idea. It's a nice one and it makes it a lot simpler but then to now see I don't know. I don't know what to Yeah. Uh well, we could avoid we could avoid the common I mean if you would like we can avoid the tragedy of the commons. because I think that only really is important if it's multiplayer. 
+If we want to keep the oscillation thing but uh or like stable state thing but get rid of the tragedy of the comments. I think they can be extricated from each other. 
+Okay. But 
+I mean we we're focusing in I I I got us kind of on the wrong track by talking 
+No, not at all. 
+Because I think the idea of the win state of the rounds without starvation is good. That's a good um attention grabber first. And it's also a good way for people to get addicted to trying over and over again because it makes the game very quick to finish and start again. And that is a very high point in any good game, especially if it's not a game for like uh what's it called? s***, I forgot my games. Like Elder Ring or something. You're not going to spend 3 hours playing. It's something that you're going to use for a professionalish setting. So the faster it is, the more like, oh, I didn't see that happen. Okay, what what did I learn from this? Okay, what can I do again? I think that's a very good strategy. So I love that as the win state, but then the lose state is what? There's no lose state then. You just die and start again. 
+Yeah, you your population dies or you you almost get there. M 
+infinitely long time trying to understand the dynamics well enough to get to a stable state but you know unless you are tuned in you wouldn't I guess and that would be the the other loss 
+exactly dies or you just never can do it 
+yeah which is interesting sorry 
+no problemifications 
+I had a I had a question um that just popped into my head head. So, the fact that it's an online game, there's the well, what I all the experiences I've had with with board games and stuff is that people can see or people can better understand how the mechanics are, right? And this helps them to be able to transpose from the game state to actually modeling the game like looking at the parameters and saying okay this one increases by two or by one. Is it something that we are like I feel that we should be aware of this because if we want the game to be something that people can use as a way to learn something more like to practice how to use uh cause and loop diagrams for example or stocks and flows. There has to be the possibility that people can over time understand what makes what work. Yeah, 
+because if it's only back end and all they can see is I moved and this thing moved and then they're like okay well if I want to understand what happens I can't really count. So if we use primitive numbers okay three resources and then the number of like how you were doing before it's something that people over time can start to actually calculate and say oh okay this one sustains this amount so that is the value of this and I need to make this to be a certain amount before I do something else. And so it helps them to at least have a hold on the game, identify the elements, identify the relationships, and then plot a chart, you know, but because if it's something that they cannot see, then they can't understand what the dynamics are, and we can lose that potential learning element there. 
+Definitely. I almost wonder if there should be a uh you know, you play it first 
+without any kind of guide. And so it's totally up to you to find the connections, but the second time you play it, you get a little guide book of like, hey, here here's a guide. Here's a map of the loops. Uh, use this map and see if you fare any better. And I guess from our research standpoint, I guess we would find out whether it actually helps people to know like to have these masks to have these 
+to win, which 
+I feel like would be a pretty if it were a pitch to a company, let's say, be like, "Hey, train your people to see a game in this or see the world in this lens, this 
+they're going to make better decisions because they're tuned into some of these really important natural dynamics that show up every 
+I mean, I'm not 100% sold on that, but I just took that idea to where I took it." But like, what do you think? 
+So, well, I like the idea of having a way that people can um how do I say they can map it out. So there's one thing in do we give them and then they figure out based on a map that is already made or they map it out themselves in the sense that based on their experiences they take the time to to see things but we can help them along and I think I like the middle ground and I'll show you something that I was working on for some clients because I found that this causal loop thing is a huge problem. People just don't know how and it's I mean I had the discussion with these people in in Luxembourg and it was with regular doctors and and nurses and all that and when I started talking about variables and stuff they I I saw like smoke coming out of their ears like you know so 
+no I 
+so I'm like s*** There has to be a better way to do this. 
+And then I found this. Um, let me share my screen. How do I share screen again? s***. How does this work? Because I think this is something that we can do. Every game that people have now, there's a um sort of ways that people can use to What's happening? Why isn't this thing working? Okay. Can Can you see my screen? 
+No, I can't. 
+s***. Not not even now. No. 
+No. 
+Damn it. 
+What? 
+It said error. There's something wrong with the I think it's my laptop is what about now? No. Yeah. Oh, 
+it's working. Okay, great. 
+Yeah, now I can see it. 
+So, this is something I created for these guys. I found out that talking about relation um using minus or plus or s and o it was just not working for them. So what we did was that we had um we're going to make cards right so we can have cards of all the different um variables that exist in the game 
+and the idea is that these cards are flip you can flip them right so you have the for example this is the availability of personnel this one that is here and it can go up or go down depending on something else. And so what the people just need to do is that they can flip the card and see which other card flips in the direction and they can put an arrow to say, "Oh, when this one flips then this one flips this way." And so that way they understand automatically it's the same flip or it's a different flip. And so they know similar sense or opposite sense. And so what we can do in the game is that we can have a pack package of cards because people will like having physical s***. So, you play the game and they're like, "Okay, we we're going to distribute these different cards and you guys are going to start thinking to yourselves what influences what? What where does the arrow go and how does it make it happen?" And so, by playing, you can come back and readjust because you can see, oh, we made a mistake here. This doesn't actually work with this. The link is not direct. There's something else. And so, this is the way that they can go about sort of mapping out what the system is and I gave different color codes so in a way that they can understand the different aspects in the system that can be mapped out so this is something that we can work on s*** what am I doing dismiss okay s*** what's happening oh my gosh what is going on okay um why is my screen off what is happening okay so this is something that we can also work on um added um physical tools that would help with the game in itself. And so I think I like the middle point. It's like we don't want to give you all the answers initially cuz we want to see how you see things. 
+That's the information we can get from you. But here we'll help you along if you don't have any of these notions in check by seeing how these cards flip. And so these are things that they can use over time and maybe they can replace the cards with actual written elements. in their workplace or in the project that they're working on cuz they've learned how to think in things that go up and go down. And so this is something that can be cool for us to use, you know. 
+I agree. Yeah, I like that a lot. Cards are awesome. 
+It's a nice middle ground for the two, you know. 
+Yeah. 
+All right. So, that's cool. That's a good um way to link in not just the game itself, but all the extra curricular tools that would accompany it in making it a very sound um object. 
+All right, cool. So, we have win state alone. Sorry. s***. We've 
+we we think we covered I mean that that's pretty important. So, I'm glad that we we took the time to think about it. 
+Um we might actually have to be I don't know how possible it is, but maybe having won our 30 your twohour calls. I don't know when we can have days that are be a bit longer because f*** it's already an hour that has gone. How is that possible? 
+Yeah, I know. Goes fast. Uh yeah, I mean I I could uh probably on the weekends. Um okay, that possible. 
+Yeah, 
+let me just write this down. Tools for accompanying the game. So we can because what we can do is that So that we don't since we have the ideas now it would help so that or already when we agree on the main variables that make the loops that we're looking at we would automatically start transforming them into the cards as well. So that we we kind of just since we have experience of multiple things we just and streamline everything into one. And so once it's finished the game is done the cards are printed and we just fire into the workshop and we can create the cards on mirror as well if we want. So online workshop can work with that. I think that could be a very cool cool thing. 
+Yeah. Yeah. Okay. That that tracks. Yeah. 
+For learning causal loop diagrams. Okay. Was there any other thing sorry that 
+uh no I mean I think uh I guess next time we'll probably have to just do the rule set then uh or obviously as well that's fine uh but um no I think I think there's good progress still 
+uh 
+things will get 
+once the information gets like processed and like all models like the 
+you know everything gets organized into a cohesive way then the 
+start moving faster. the fun will begin. Well, I mean this is the most fun. I think all this brainstorming is actually the thing that is really sweet for me. 
+Yes, agreed. 
+All right. Great. Thank you so much, man. Please don't forget to send the the links. I'll share the notebook LM with you so you can also have a look and ask some questions if you want. I'll put all the information there so you can have a and I'll they'll create a podcast for us which is cool. I'll send out as well to see all the s*** we've been talking about if it makes any sense. 
+Okay. Yeah, I'll send them to you uh right after this. 
+Okay, great. Thank you so much, man. 
+Yeah, thank you. I'll see you later. 
+Yeah, have a lovely day. Bye.
+
