@@ -1,0 +1,66 @@
+Streamlined Rules for OUTLAST by DeepSeek AI
+
+Core Focus: Maintain learning objectives while reducing complexity and enhancing player engagement.
+
+Simplified Player Turn
+
+Actions per Turn: 3 actions + 1 per settlement (not per meeple).
+Why? Reduces micromanagement and ties growth to strategic building, not just population.
+
+Streamlined Actions
+
+Move/Explore
+Move to an adjacent tile. If unexplored (face-down), flip it and resolve effects.
+No extra action cost for revealing tiles.
+Gather
+Resources: Collect 1 resource per action (max 3/tile).
+Hunt Prey: Roll d8. 5+ = gain 1 prey. 1-4 = failure. Costs 1 action.
+Combined hunting and gathering simplifies choices.
+Build
+Spend 2 resources (down from 3) to construct a settlement.
+Settlements grant +1 action/turn and spawn new meeples.
+Defend or Hide (when on a tile with a wolf)
+Fight: Roll d8. 7+ = defeat wolf. 1-6 = meeple dies.
+Hide: Spend 1 action to avoid combat.
+Mandatory if wolf present, streamlining decision pressure.
+Interact
+Trade resources/prey with players on the same tile (free action).
+Fight another player: Both roll d8. Higher roll wins (resources can modify rolls).
+Encourages negotiation and conflict without redundant systems.
+Simplified Board Turn
+
+Ecosystem Phase
+Resources Regrow: If a tile has ≥1 resource, add 1 (max 3).
+Prey Multiply: If a tile has ≥2 prey, add 1 (max 3). Excess prey migrate to adjacent tiles.
+Wolves Hunt:
+Wolves move toward tiles with the most prey.
+If a wolf shares a tile with ≥3 prey, spawn a new wolf on an adjacent tile.
+Survival Phase
+Each meeple consumes 1 prey. Starvation occurs if unmet.
+New Meeples: Players gain 1 meeple per settlement (instead of automatic growth).
+Wolf Attacks
+Unhidden meeples on wolf tiles automatically trigger combat (use Defend rules).
+Key Changes for Learning Objectives
+
+Tragedy of the Commons
+Over-hunting prey reduces regeneration. Wolves multiply if prey is abundant, creating feedback loops.
+Players must balance short-term gains vs. long-term survival.
+Negotiation & Collaboration
+Trading replaces "Drop Resource," incentivizing deals.
+Shared threats (wolves) encourage alliances.
+Population Dynamics
+Meeples grow via settlements (not automatic), linking expansion to resource investment.
+Wolves and prey replicate based on thresholds, simulating ecological systems.
+Simplified Combat
+Unified d8 mechanics for hunting, wolves, and PvP. Resources can modify rolls (e.g., +1 per resource spent).
+Benefits
+
+Reduced Cognitive Load: Fewer actions and unified mechanics.
+Enhanced Strategy: Settlements drive growth, requiring resource management.
+Clearer Feedback Loops: Prey/wolf dynamics directly tie to player decisions.
+Business Alignment: Easier to teach in workshops, with clearer systems for case studies.
+Testing Notes
+
+Monitor player strategies to ensure the streamlined rules still allow for emergent complexity.
+Adjust wolf migration/prey thresholds if predation feels too punitive.
+This redesign maintains systemic depth while focusing on the core objectives of collaboration, resource management, and ecological interdependence.
